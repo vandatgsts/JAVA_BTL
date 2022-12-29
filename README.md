@@ -6,7 +6,9 @@ Sử dụng
 TK admin khi chạy
 - tk: admin
 - mk: 123
+
 Setup sever SA cho sql
 - tk: sa
 - mk: 1
-Setup cong ket noi 1433
+
+Setup cong ket noi TCP/IP: 1433
